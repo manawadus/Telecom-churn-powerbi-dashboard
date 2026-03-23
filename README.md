@@ -73,13 +73,14 @@ Telecom-churn-powerbi-dashboard/images/Telecom Customer Churn Dashboard.png
 
 ## Repository Structure
 
+```
 ├── dashboard/
 │ └── Telco customer churn.pbix
 ├── images/
 │ └── Telecom Customer Churn Dashboard.png
 ├── README.md
 
-
+```
 ---
 
 ## About the Author
