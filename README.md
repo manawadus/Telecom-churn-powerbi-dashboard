@@ -82,7 +82,14 @@ Telecom-churn-powerbi-dashboard/images/Telecom Customer Churn Dashboard.png
 
 ```
 ---
+## Dataset
 
+This project uses a publicly available telecom customer churn dataset.
+
+Dataset source:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+---
 ## About the Author
 
 Suresh Sampath Manawadu  
