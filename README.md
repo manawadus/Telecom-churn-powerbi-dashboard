@@ -103,6 +103,6 @@ I am interested in applying data analytics and machine learning to solve real-wo
 
 This dashboard complements a machine learning pipeline developed using PySpark and XGBoost:
 
-https://github.com/manawadus/Telco-churn-pyspark
+https://github.com/manawadus/Telecom-churn-pyspark--ml-pipeline
 
 
